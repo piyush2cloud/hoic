@@ -1,0 +1,25 @@
+.video-details-page-image {
+  width: 100%;
+  height: calc(100vw / 2.5);
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-size: 77%;
+  background-color: rgb(33, 33, 33);
+}
+
+.video-details-page-badge {
+  background: linear-gradient(
+    to right,
+    var(--primary-background-color),
+    #3f0949
+  );
+  display: inline-block;
+  color: #ffffff;
+  padding: 5px 15px;
+  border-radius: 11px;
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+
+
+/*# sourceMappingURL=components-VideoDetailsPage-styles-css.style.css.map*/
